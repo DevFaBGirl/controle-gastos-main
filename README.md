@@ -34,6 +34,8 @@ Desenvolver uma plataforma eficiente para gestão de finanças pessoais com uplo
   - **Firestore** para banco de dados de transações
 
 ## Estrutura de Arquivos
+
+``` 
 .
 ├── frontend/
 │   ├── src/
@@ -42,8 +44,6 @@ Desenvolver uma plataforma eficiente para gestão de finanças pessoais com uplo
 │   │   ├── redux/
 │   │   ├── App.js
 │   │   └── index.js
-│   ├── public/
-│   └── package.json
 ├── backend/
 │   ├── src/
 │   │   ├── controllers/
@@ -52,6 +52,7 @@ Desenvolver uma plataforma eficiente para gestão de finanças pessoais com uplo
 │   │   └── app.js
 │   ├── package.json
 └── README.md
+```
 
 
 ## Instalação e Configuração
@@ -59,7 +60,7 @@ Desenvolver uma plataforma eficiente para gestão de finanças pessoais com uplo
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/plataforma-gerenciamento-gastos.git
+   git clone https://github.com/DevFaBGirl/controle-gastos-main.git
 
 ```sh
    npm install
